@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <math.h>
 
-//Moni Yahwehson's code
 
 
-//sub function to calculate for the actual point of each course
+
+//Function to calculate for the actual point of each course
 
 int point(int a, int b)
 {
